@@ -1,4 +1,4 @@
-# codsoft_task1
+# Number game
 Task 1: Number Game Features:
 
 Random Number Generation: Generates a random number between 1 and 100.
